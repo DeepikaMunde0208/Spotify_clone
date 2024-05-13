@@ -4,7 +4,12 @@
   "description": "This will contain the backend code for the spotify clone",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  
+
+   "start": "craco start",
+   "build": "craco build",
+   "test": "craco test",
+   "eject": "react-scripts eject"
   },
   "author": "Agrim Chopra",
   "license": "ISC",
